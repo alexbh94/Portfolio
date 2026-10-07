@@ -1,0 +1,16 @@
+PORTFOLIO D'ALEXIS BOHAN, MISE EN LIGNE
+
+Contenu du dossier
+- index.html : le portfolio complet (français et anglais)
+- cv-alexis-bohan.pdf : le CV téléchargeable
+- netlify/functions/ask.mjs : la fonction qui fait parler l'assistant IA
+- netlify.toml : les réglages Netlify
+
+Étapes (détaillées dans la conversation avec Claude)
+1. Déposer tout le contenu de ce dossier dans un dépôt GitHub.
+2. Dans Netlify, importer ce dépôt depuis GitHub.
+3. Dans Netlify, ajouter la variable d'environnement ANTHROPIC_API_KEY avec ta clé.
+4. Activer les formulaires et la notification par email vers alexis.bohan@skema.edu.
+5. Tester en navigation privée.
+
+Ne jamais mettre la clé API dans un fichier de ce dossier.
